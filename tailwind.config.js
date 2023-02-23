@@ -13,8 +13,8 @@ module.exports = {
         "bg-yellow": "#ffbe00",
         "bg-darkBlue": "#1d3fbb",
         "bg-red": "#e30512",
-        "text-pink":"#e568ac",
-        "text-black":"#251d20"
+        "uPink":"#e568ac",
+        "uBlack":"#251d20"
       }
     },
   },
