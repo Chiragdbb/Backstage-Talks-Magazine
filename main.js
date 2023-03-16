@@ -2,7 +2,7 @@
 // scrolling to a block also changes its bg-color
 // scroll input 
 // keys input = up and down keys
-// set background of cards to full viewport
+// set background size of cards to full viewport
 // index font to bold when block is active
 
 let bgChange = document.querySelector(".wrapper");
