@@ -1,11 +1,13 @@
 // vite.config.js
 
-// export default {
-//     base: "",
-// }
-
-module.exports = {
+export default {
+    base: "",
     build: {
+      root: "./",
       outDir: 'docs',
-    },
-  };
+    }
+}
+
+// module.exports = {
+//     ,
+//   };
