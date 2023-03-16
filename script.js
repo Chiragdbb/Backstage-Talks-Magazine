@@ -1,6 +1,9 @@
 // bg-color should be changed according to selcted block
 // scrolling to a block also changes its bg-color
-// scrollbar should not be visible
+// scroll input 
+// keys input = up and down keys
+// set background of cards to full viewport
+// index font to bold when block is active
 
 let bgChange = document.querySelector(".wrapper");
 
